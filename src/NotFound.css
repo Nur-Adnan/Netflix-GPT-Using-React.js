@@ -1,0 +1,65 @@
+/*======================
+    404 page Netflix-style
+=======================*/
+
+.page_404 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 40px 0;
+  background-color: #141414; /* Netflix-style dark background */
+  color: #e5e5e5;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.page_404 img {
+  width: 100%;
+}
+
+.four_zero_four_bg {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.four_zero_four_bg h1 {
+  font-size: 150px;
+  color: #e50914; /* Netflix red */
+  font-weight: 700;
+  margin: 0;
+}
+
+.four_zero_four_bg h3 {
+  font-size: 32px;
+  color: #e5e5e5;
+  margin: 20px 0;
+}
+.details_404 {
+  margin-bottom: 2rem;
+}
+.link_404 {
+  color: #fff !important;
+  padding: 15px 30px;
+  background-color: #e50914; /* Netflix red */
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 600;
+  transition: background 0.3s ease;
+}
+
+.link_404:hover {
+  background-color: #f40612;
+}
+
+.contant_box_404 {
+  margin-top: -30px;
+  text-align: center;
+}
+
+.page_404 p {
+  font-size: 20px;
+  color: #b3b3b3;
+}

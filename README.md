@@ -26,7 +26,12 @@ Netflix GPT is a modern, AI-driven movie recommendation platform that integrates
 - **State Management**:
   - Redux store for managing user authentication, movies, and GPT suggestions
   - Memoization for performance optimization
- 
+
+![netflix-gpt-nur_adnan](https://github.com/user-attachments/assets/83c2d214-eae7-4f87-a41a-c22297db2016)
+![netflix-gpt](https://github.com/user-attachments/assets/cfd41ea3-4fef-4d29-a235-73e763ea07d7)
+![netflix-adnan](https://github.com/user-attachments/assets/5407d564-8057-46d5-a379-f90ddb312e96)
+
+
   ![screencapture-netflixgpt-ce9e8-web-app-browse-2024-09-14-15_41_07](https://github.com/user-attachments/assets/6159e4ff-d2a1-4fc9-a789-4dc1bb828d4a)
 
 ## Project Setup
